@@ -10,7 +10,7 @@ pipeline {
 	        UIPATH_ORCH_LOGICAL_NAME = "admin"
 	        UIPATH_ORCH_TENANT_NAME = "Default"
 	        UIPATH_ORCH_FOLDER_NAME = "Shared"
-	    }
+	        }
 	
 
 	    stages {

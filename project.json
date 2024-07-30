@@ -1,6 +1,6 @@
 {
-  "name": "Test01",
-  "description": "空白流程",
+  "name": "fanhaninfo_Test_CICD",
+  "description": "fanhaninfo_Test_CICD",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.16.0]",
